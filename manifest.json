@@ -1,0 +1,27 @@
+{
+  "name": "نظام إدارة قطع غيار السيارات - فؤاد فراج",
+  "short_name": "قطع غيار فؤاد فراج",
+  "description": "نظام إدارة شامل لمحل قطع غيار السيارات: مخزون، مبيعات، مشتريات، عملاء، وتقارير مالية",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1F3864",
+  "theme_color": "#1F3864",
+  "dir": "rtl",
+  "lang": "ar",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
