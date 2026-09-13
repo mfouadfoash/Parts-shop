@@ -1,0 +1,27 @@
+{
+  "name": "محل فؤاد فراج لقطع غيار ميكروباص ونقل",
+  "short_name": "فؤاد فراج",
+  "description": "نظام إدارة شامل لمحل فؤاد فراج لقطع غيار الميكروباص والنقل: مخزون، مبيعات، مشتريات، عملاء، وتقارير مالية",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1F3864",
+  "theme_color": "#1F3864",
+  "dir": "rtl",
+  "lang": "ar",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
